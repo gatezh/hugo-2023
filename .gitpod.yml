@@ -1,3 +1,4 @@
+# Based on https://github.com/gitpod-io/template-hugo/blob/main/.gitpod.yml
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
   - name: Install Hugo dependencies
@@ -8,4 +9,6 @@ tasks:
 ports:
   - port: 1313
     onOpen: open-preview
-    
+vscode:
+  extensions:
+    - eliostruyf.vscode-front-matter
