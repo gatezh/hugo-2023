@@ -11,9 +11,12 @@ ports:
     onOpen: open-preview
 vscode:
   extensions:
-    # Front Matter https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter
+    # Front Matter
+    # https://open-vsx.org/extension/eliostruyf/vscode-front-matter
     - eliostruyf.vscode-front-matter 
-    # hugofy https://marketplace.visualstudio.com/items?itemName=akmittal.hugofy
-    - akmittal.hugofy
-    # Hugo Helper https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo
+    # Hugo Language and Syntax Support
+    # https://open-vsx.org/extension/budparr/language-hugo-vscode
+    - budparr.language-hugo-vscode
+    # Hugo Helper
+    # https://open-vsx.org/extension/rusnasonov/vscode-hugo
     - rusnasonov.vscode-hugo
