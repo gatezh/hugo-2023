@@ -20,3 +20,6 @@ vscode:
     # Hugo Helper
     # https://open-vsx.org/extension/rusnasonov/vscode-hugo
     - rusnasonov.vscode-hugo
+    # Hugo Snippets
+    # https://open-vsx.org/extension/fivethree/vscode-hugo-snippets
+    - fivethree.vscode-hugo-snippets
