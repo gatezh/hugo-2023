@@ -13,5 +13,7 @@ vscode:
   extensions:
     # Front Matter https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-front-matter
     - eliostruyf.vscode-front-matter 
-    # Hugofy https://marketplace.visualstudio.com/items?itemName=akmittal.hugofy
+    # hugofy https://marketplace.visualstudio.com/items?itemName=akmittal.hugofy
     - akmittal.hugofy
+    # Hugo Helper https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo
+    - rusnasonov.vscode-hugo
